@@ -1,0 +1,49 @@
+<text type="manuscript">
+<body>
+<pb facs="loc.00001.001.jpg" xml:id="leaf001r" type="recto"/>
+<lg type="poem">
+<head rend="underline" type="main-authorial">
+After
+<subst>
+<del rend="overstrike" seq="1">an</del>
+<add place="supralinear" rend="insertion" seq="2">
+the
+<del rend="overstrike">unsolv'd</del>
+</add>
+</subst>
+argument
+</head>
+<l>
+<del rend="overstrike">The</del>
+<add place="supralinear" rend="insertion">
+<del rend="overstrike">Coming in,</del>
+<subst>
+<del rend="overwrite" seq="1">a</del>
+<add place="over" rend="overwrite" seq="2">A</add>
+</subst>
+group of
+</add>
+little children, and their
+<lb/>
+ways and chatter, flow
+<add place="inline" rend="unmarked">in, </add>
+<del rend="overstrike">
+<add place="supralinear" rend="unmarked">upon me</add>
+</del>
+</l>
+<l>
+Like
+<add place="supralinear" rend="insertion">welcome </add>
+rippling water o'er my
+<lb/>
+heated
+<add place="supralinear" rend="insertion">nerves and </add>
+flesh.
+</l>
+<closer>
+<signed>Walt Whitman</signed>
+</closer>
+</lg>
+<pb facs="loc.00001.002.jpg" xml:id="leaf001v" type="verso"/>
+</body>
+</text>
