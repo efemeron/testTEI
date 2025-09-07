@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+  <title>А вы могли бы?</title>
+  <author>Владимир Маяковский</author>
+  <stanza>
+    <line>Я сразу смазал карту будня,</line>
+    <line>плеснувши краску из стакана;</line>
+    <line>я показал на блюде студня</line>
+    <line>косые скулы океана.</line>
+  </stanza>
+  <stanza>
+    <line>На чешуе жестяной рыбы</line>
+    <line>прочёл я зовы новых губ.</line>
+  </stanza>
+  <stanza>
+    <line>А вы</line>
+    <line>ноктюрн сыграть</line>
+    <line>могли бы</line>
+    <line>на флейте водосточных труб?</line>
+  </stanza>
+</poem>
